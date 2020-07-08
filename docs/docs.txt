@@ -2,6 +2,11 @@ Example documentation
 
 Usage
 
-  example
+  example [--version]
 
 Prints 'hello' to standard output.
+
+Options
+
+  --version
+    Prints the version number to standard output instead of 'hello'.
