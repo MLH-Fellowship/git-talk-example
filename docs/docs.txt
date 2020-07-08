@@ -1,0 +1,7 @@
+Example documentation
+
+Usage
+
+  example
+
+Prints 'hello' to standard output.
